@@ -23,5 +23,11 @@ An open source experiment to radically reinvent how we work together - anytime, 
 3. Change the world? Yep.
 4. Profit? Nah.
 
+# Navigating this project
+There are a number of topics we'll be diving deep into. Check out the markdown files in this repository to explore our thinking.
+1. Shared learning
+2. Meetings
+3. Information v.s. intelligence
+4. Servant leadership
 
 You can copy, change, or share any of these ideas in any way you choose.
