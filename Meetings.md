@@ -1,5 +1,5 @@
 # Intro
-It’s important to consider the entire lifecycle for decisions. As Edward De Bono says — the pitfalls of analysis stem for one’s desire to zoom to the end without considering the value of each step in the path. Macro-decisions stem are an aggregate of the micro decisions that create momentum; define the perception & perspective we hold; and guide the flow of information for the collective decision making body. It’s important to track, measure, & review the micro-decisions on our journey to making the macro-decisions. Doing so will light the path with clarity and purpose while providing a needed assurance of finality at milestone.
+It’s important to consider the entire lifecycle for decisions. As Edward De Bono says — the pitfalls of analysis stem for one’s desire to zoom to the end without considering the value of each step in the path. Macro-decisions are an aggregate of the micro decisions that create momentum; define the perception & perspective we hold; and guide the flow of information for the collective decision making body. It’s important to track, measure, & review the micro-decisions on our journey to making the macro-decisions. Doing so will light the path with clarity and purpose while providing the much needed assurance of finality at each milestone.
 
 # Path: Micro-decisions
 1. Before the meeting
