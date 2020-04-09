@@ -16,6 +16,6 @@ For us to effectively serve our customers, we need to speak the same language ab
 2. One-dimensional: Increase in performance for this feature yields linear increase in satisfaction
 3. Delighters: Customers may not be vocal about these features because it may not be top of mind. However, any increase in performance this feature yields high customer satisfaction and ultimately creates excitment.
 
-Here's a great visual: [https://foldingburritos.com/wp-content/uploads/2015/06/FullKanoModel.png]
+![Here's a great visual](https://foldingburritos.com/wp-content/uploads/2015/06/FullKanoModel.png)
 
 # How might we be able to anchor our conversations on what matters to the customer?
