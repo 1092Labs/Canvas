@@ -18,7 +18,7 @@ An open source experiment to radically reinvent how we work together - anytime, 
 
 
 # What's the plan?
-1. Expand the realm of possibilities - We are going to perform market research
+1. Expand the realm of possibilities - We are going to perform market research, define principles, & articulate a shared vision
 2. ??? (PRs welcome)
 3. Change the world? Yep.
 4. Profit? Nah.
