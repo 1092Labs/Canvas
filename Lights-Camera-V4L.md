@@ -1,5 +1,5 @@
 # Intro
-There exists a driver on linux called "Video for Linux" that allows you to manage all of the buffers that are fed into the video call you're having on Zoom or Meet. The cool tick is that the kernel module would mimick that of a linux video driver and allow you to feed a video buffer (each frame and its pixels) into what ever client is injesting the pixels for a two-way call.
+There exists a driver on linux called "Video 4 Linux" that allows you to manage all of the buffers that are fed into the video call you're having on Zoom or Meet. The cool trick is that the kernel module would mimick that of a linux video driver and allow you to feed a video buffer (each frame and its pixels) into what ever client is injesting the pixels for a two-way call.
 This simply means that we can have cool-slide-video.mp4 be a "camera" driver and agnositc of any client, we'll be able to feed in custom content.
 
 - Documentation for V4L (Video for Linux) https://www.kernel.org/doc/html/v4.12/media/kapi/v4l2-core.html
